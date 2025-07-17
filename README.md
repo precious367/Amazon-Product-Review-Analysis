@@ -60,8 +60,6 @@ The Category column was split using a delimiter to enhance clarity and support m
 5. Boost Customer Review Efforts, Actively encourage more customer reviews, especially in categories that are underrepresented.
 This could be through simple follow-up emails or small incentives, which would help collect more data and support better business decisions.
 
-### Data Analysis ( Files Included)
-  - view project here [Excel workbook]
 
  
  ### Author
