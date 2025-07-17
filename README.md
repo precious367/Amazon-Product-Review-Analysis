@@ -1,5 +1,5 @@
 ## DSA Capstone Project
-### Topic Amazon Product Review Analysis
+### Topic: Amazon Product Review Analysis
 
 This project explores an Amazon product review dataset to uncover key insights on pricing, discount strategies, customer ratings, and product performance across categories by analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
